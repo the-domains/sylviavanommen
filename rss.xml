@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[sylviavanommen]]></title>
+        <description><![CDATA[sylviavanommen]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 16 Feb 2016 10:33:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[mindfulness en andere moderne ongemakken]]></title>
+            <description><![CDATA[<article><h1>mindfulness en andere moderne ongemakken</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ecbd5efa5ed6df7420bf1478325c6845f72ec772.gif"></article>]]></description>
+            <link>undefinedmindfulness-en-andere-moderne-ongemakken/index.html</link>
+            <guid isPermaLink="false">6c7f7a20-a400-488c-9fd1-3e8bea969924</guid>
+            <pubDate>Tue, 16 Feb 2016 10:08:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
